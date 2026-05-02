@@ -18,5 +18,3 @@ Writing clean, maintainable code
 Understanding systems deeply instead of surface-level knowledge
 Staying consistent with daily progress
 
-Connect:
-LinkedIn: www.linkedin.com/in/navaneethan-p
