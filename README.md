@@ -16,3 +16,13 @@ My approach is entirely execution-driven. I build scalable web applications, arc
 * Cultivating a technical network of 3,000+ developers
 
 Relentless execution. Deep systems knowledge. Code that scales.
+
+# 🏅 Achievements Showcase
+
+![Profile README](https://img.shields.io/badge/Achievement-Profile%20README-blue)
+![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-brightgreen)
+![Starstruck](https://img.shields.io/badge/Achievement-Starstruck-yellow)
+![Galaxy Brain](https://img.shields.io/badge/Achievement-Galaxy%20Brain-purple)
+![Maintainer](https://img.shields.io/badge/Achievement-Maintainer-orange)
+![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-pink)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-red)
