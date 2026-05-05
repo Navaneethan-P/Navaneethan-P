@@ -19,10 +19,11 @@ Relentless execution. Deep systems knowledge. Code that scales.
 
 # 🏅 Achievements Showcase
 
-![Profile README](https://img.shields.io/badge/Achievement-Profile%20README-blue)
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-brightgreen)
-![Starstruck](https://img.shields.io/badge/Achievement-Starstruck-yellow)
-![Galaxy Brain](https://img.shields.io/badge/Achievement-Galaxy%20Brain-purple)
-![Maintainer](https://img.shields.io/badge/Achievement-Maintainer-orange)
-![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair%20Extraordinaire-pink)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-red)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-%20🦈-brightgreen)
+![Starstruck](https://img.shields.io/badge/Starstruck-%20⭐-yellow)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-%20🧠-purple)
+![Maintainer](https://img.shields.io/badge/Maintainer-%20🛠-orange)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-%20🤝-pink)
+![YOLO](https://img.shields.io/badge/YOLO-%20⚡-red)
+![Profile README](https://img.shields.io/badge/Profile%20README-%20📘-blue)
+
