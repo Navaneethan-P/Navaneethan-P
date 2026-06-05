@@ -3,7 +3,7 @@ Welcome to my slice of the internet! I'm a passionate **Software Developer** fro
 I'm currently focused on expanding my skills in **System Design**, mastering **Data Structures & Algorithms (DSA)**, and building fast, accessible web applications. 
 
 
-### 💻 What I'm currently working on
+###  What I'm currently working on
 
 -  **[Cortex](https://github.com/Navaneethan-P/Cortex)** — A "second brain" and intelligent note-taking application.
 -  **[workers_club](https://github.com/Navaneethan-P/workers_club)** — A talent platform that puts skills first.
