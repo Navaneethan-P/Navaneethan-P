@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navaneethan%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Coder%20%7C%20Building%20real%20products%2C%20not%20just%20tutorials&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navaneethan%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Under%20Learning%20Process%20%7C%20Infinity%20Cosmos%20Technologies&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://github.com/Navaneethan-P?tab=followers">
     <img src="https://img.shields.io/github/followers/Navaneethan-P?label=Followers&style=flat-square&color=blueviolet" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Company-Infinity%20Cosmos%20Technologies-blueviolet?style=flat-square&logo=organization" />
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
@@ -17,27 +17,26 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-### 👨‍💻 About Me
+### ????? About Me
 
-```javascript
+`javascript
 const navaneethan = {
-  college:   "Adhi College of Engineering and Technology",
-  location:  "Tamil Nadu, India 🇮🇳",
-  focus:     "Building real products, not just tutorials",
-  currently: "workers_club — skill-first talent platform",
-  learning:  ["TypeScript", "System Design", "DSA"],
-  ask_me:    ["JavaScript", "React", "Node.js", "Python"],
+  pronouns:  "he/him",
+  tagline:   "Under Learning Process",
+  company:   "Infinity Cosmos Technologies",
+  location:  "Tamil Nadu, India ????",
+  learning:  ["TypeScript", "System Design", "DSA", "Problem Solving"],
   portfolio: "https://navaneethan-p.netlify.app/",
   contact:   "navaneethan2005.official@gmail.com",
-  fun_fact:  "I think resumes are overrated — so I built something to prove it 🚀"
+  fun_fact:  "I think resumes are overrated � so I built something to prove it ??"
 };
-```
+`
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+### ??? Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,github,vscode,mongodb,postgresql,figma&perline=7" />
@@ -45,7 +44,7 @@ const navaneethan = {
 
 ---
 
-### 📊 GitHub Stats
+### ?? GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Navaneethan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -58,34 +57,39 @@ const navaneethan = {
 
 ---
 
-### 🏆 GitHub Trophies
+### ?? LeetCode & DSA Progress
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Navaneethan-P&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <a href="https://leetcode.com/navaneethan-07">
+    <img src="https://leetcard.jacoblin.cool/navaneethan-07?theme=tokyonight&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### ?? Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Navaneethan-P/workers_club">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navaneethan-P&repo=workers_club&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/??_workers__club-Skill--first_talent_platform-6e40c9?style=for-the-badge&logo=github" />
   </a>
+  <br/><br/>
   <a href="https://github.com/Navaneethan-P/style-weaver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navaneethan-P&repo=style-weaver&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/??_style__weaver-AI_Fashion_%26_Outfit_Picker-blue?style=for-the-badge&logo=github" />
   </a>
+  <br/><br/>
   <a href="https://github.com/Navaneethan-P/Cortex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navaneethan-P&repo=Cortex&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/??_Cortex-Intelligent_Note--taking_App-green?style=for-the-badge&logo=github" />
   </a>
+  <br/><br/>
   <a href="https://github.com/Navaneethan-P/Trust-Lens-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navaneethan-P&repo=Trust-Lens-Analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img src="https://img.shields.io/badge/???_Trust--Lens-Digital_Threat_Detection-red?style=for-the-badge&logo=github" />
   </a>
-</div>
+</p>
 
 ---
 
-### 📈 Contribution Activity
+### ?? Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneethan-P&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff" width="100%" />
@@ -93,7 +97,7 @@ const navaneethan = {
 
 ---
 
-### 🤝 Connect With Me
+### ?? Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/navaneethan-p" target="_blank">
@@ -105,10 +109,12 @@ const navaneethan = {
   <a href="mailto:navaneethan2005.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <i>⭐ If you like what I build, drop a star on a repo — it means a lot! ⭐</i>
+  <a href="https://instagram.com/lonely._.lover_07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/navaneethan-07">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <div align="center">
