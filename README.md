@@ -44,24 +44,12 @@ const navaneethan = {
 
 ---
 
-### ?? GitHub Stats
+### ?? GitHub Stats & DSA Progress
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Navaneethan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneethan-P&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneethan-P&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
-</div>
-
----
-
-### ?? LeetCode & DSA Progress
-
-<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Navaneethan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
   <a href="https://leetcode.com/navaneethan-07">
-    <img src="https://leetcard.jacoblin.cool/navaneethan-07?theme=tokyonight&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
+    <img height="160" src="https://leetcard.jacoblin.cool/navaneethan-07?theme=tokyonight&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -69,31 +57,10 @@ const navaneethan = {
 
 ### ?? Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Navaneethan-P/workers_club">
-    <img src="https://img.shields.io/badge/??_workers__club-Skill--first_talent_platform-6e40c9?style=for-the-badge&logo=github" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Navaneethan-P/style-weaver">
-    <img src="https://img.shields.io/badge/??_style__weaver-AI_Fashion_%26_Outfit_Picker-blue?style=for-the-badge&logo=github" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Navaneethan-P/Cortex">
-    <img src="https://img.shields.io/badge/??_Cortex-Intelligent_Note--taking_App-green?style=for-the-badge&logo=github" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Navaneethan-P/Trust-Lens-Analyzer">
-    <img src="https://img.shields.io/badge/???_Trust--Lens-Digital_Threat_Detection-red?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-### ?? Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneethan-P&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff" width="100%" />
-</div>
+* ?? **[workers_club](https://github.com/Navaneethan-P/workers_club)** — Skill-first talent platform
+* ?? **[style-weaver](https://github.com/Navaneethan-P/style-weaver)** — AI Fashion & Outfit Picker
+* ?? **[Cortex](https://github.com/Navaneethan-P/Cortex)** — Intelligent Note-taking App
+* ??? **[Trust-Lens-Analyzer](https://github.com/Navaneethan-P/Trust-Lens-Analyzer)** — AI Digital Threat Detection
 
 ---
 
