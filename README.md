@@ -28,12 +28,6 @@ Here are the technologies I reach for most often:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-* **Email:** [navaneethan2005.official@gmail.com](mailto:navaneethan2005.official@gmail.com)
-* **LinkedIn:** [in/navaneethan-p](https://linkedin.com/in/navaneethan-p)
-* **Portfolio:** [navaneethan-p.netlify.app](https://navaneethan-p.netlify.app/)
-* **LeetCode:** [navaneethan_07](https://leetcode.com/navaneethan-07)
-* **Instagram:** [@lonely._.lover_07](https://instagram.com/lonely._.lover_07)
-
 <br/>
 
 > *"I think resumes are overrated — so I built something to prove it."* 
