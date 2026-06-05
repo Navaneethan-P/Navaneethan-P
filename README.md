@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navaneethan%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Under%20Learning%20Process%20%7C%20Infinity%20Cosmos%20Technologies&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navaneethan%20P&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20%26%20Modern%20Web&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -17,26 +17,26 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-### ????? About Me
+### 👨‍💻 About Me
 
-`javascript
+```javascript
 const navaneethan = {
   pronouns:  "he/him",
-  tagline:   "Under Learning Process",
+  tagline:   "Software Developer | AI & Modern Web Architecture",
   company:   "Infinity Cosmos Technologies",
-  location:  "Tamil Nadu, India ????",
+  location:  "Tamil Nadu, India 🇮🇳",
   learning:  ["TypeScript", "System Design", "DSA", "Problem Solving"],
   portfolio: "https://navaneethan-p.netlify.app/",
   contact:   "navaneethan2005.official@gmail.com",
-  fun_fact:  "I think resumes are overrated � so I built something to prove it ??"
+  fun_fact:  "I think resumes are overrated — so I built something to prove it 🚀"
 };
-`
+```
 
 <br clear="right"/>
 
 ---
 
-### ??? Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind,git,github,vscode,mongodb,postgresql,figma&perline=7" />
@@ -44,7 +44,7 @@ const navaneethan = {
 
 ---
 
-### ?? GitHub Stats & DSA Progress
+### 📊 GitHub Stats & DSA Progress
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Navaneethan-P&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
@@ -55,16 +55,16 @@ const navaneethan = {
 
 ---
 
-### ?? Featured Projects
+### 🌟 Featured Projects
 
-* ?? **[workers_club](https://github.com/Navaneethan-P/workers_club)** � Skill-first talent platform
-* ?? **[style-weaver](https://github.com/Navaneethan-P/style-weaver)** � AI Fashion & Outfit Picker
-* ?? **[Cortex](https://github.com/Navaneethan-P/Cortex)** � Intelligent Note-taking App
-* ??? **[Trust-Lens-Analyzer](https://github.com/Navaneethan-P/Trust-Lens-Analyzer)** � AI Digital Threat Detection
+* 💼 **[workers_club](https://github.com/Navaneethan-P/workers_club)** — Skill-first talent platform
+* 👗 **[style-weaver](https://github.com/Navaneethan-P/style-weaver)** — AI Fashion & Outfit Picker
+* 🧠 **[Cortex](https://github.com/Navaneethan-P/Cortex)** — Intelligent Note-taking App
+* 🛡️ **[Trust-Lens-Analyzer](https://github.com/Navaneethan-P/Trust-Lens-Analyzer)** — AI Digital Threat Detection
 
 ---
 
-### ?? Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/navaneethan-p" target="_blank">
