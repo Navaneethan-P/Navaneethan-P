@@ -1,4 +1,4 @@
-Welcome to my slice of the internet! I'm a passionate **Software Developer** from Tamil Nadu, India 🇮🇳. I love building things that live on the web, from intelligent note-taking apps to AI-driven threat detection systems. 
+Welcome to my slice of the internet! I'm a passionate **Software Developer** from Tamil Nadu, India. I love building things that live on the web, from intelligent note-taking apps to AI-driven threat detection systems. 
 
 I'm currently focused on expanding my skills in **System Design**, mastering **Data Structures & Algorithms (DSA)**, and building fast, accessible web applications. 
 
