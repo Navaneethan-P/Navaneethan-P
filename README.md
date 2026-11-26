@@ -1,33 +1,21 @@
-Welcome to my slice of the internet! I'm a passionate **Software Developer** from Tamil Nadu, India. I love building things that live on the web, from intelligent note-taking apps to AI-driven threat detection systems. 
+# Navaneethan P
 
-I'm currently focused on expanding my skills in **System Design**, mastering **Data Structures & Algorithms (DSA)**, and building fast, accessible web applications. 
+Software developer based in Tamil Nadu, India. I build practical software tools and web applications, with a focus on developer experience, repository quality, and useful everyday software.
 
+My public projects include a Python command-line tool for checking repository onboarding and an Android-to-Windows gamepad connection tool. I document how each project works, its requirements, and its limitations in the repository README.
 
-###  What I'm currently working on
+## Selected projects
 
--  **[Cortex](https://github.com/Navaneethan-P/Cortex)** — A "second brain" and intelligent note-taking application.
--  **[workers_club](https://github.com/Navaneethan-P/workers_club)** — A talent platform that puts skills first.
--  **[style-weaver](https://github.com/Navaneethan-P/style-weaver)** — An AI-powered fashion and outfit picker.
--  **[Trust-Lens-Analyzer](https://github.com/Navaneethan-P/Trust-Lens-Analyzer)** — Deep-diving into digital threat detection.
+### [FirstRun](https://github.com/Navaneethan-P/FirstRun)
+A Python CLI that statically checks software repositories for first-run and onboarding gaps. It reports issues such as missing setup guidance, broken local documentation links, absent environment templates, and configuration or repository-quality gaps. FirstRun inspects files without executing the target repository's code.
 
----
+### [PhonePad](https://github.com/Navaneethan-P/Phonepad)
+An Android app and Windows companion that let an Android phone act as an Xbox 360-compatible controller for Windows. The README covers installation, local-network pairing, the ViGEmBus requirement, and controller verification.
 
-###  My Toolbox
+## Areas of interest
 
-Here are the technologies I reach for most often:
+Software engineering, Python, TypeScript, JavaScript, command-line tools, developer tooling, repository onboarding, and building clear, maintainable applications.
 
-<br/>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,html,css,tailwind,mongodb,postgresql,git,figma,vscode&perline=14" alt="My Tech Stack" />
-</p>
-<br/>
+## Explore
 
----
-
-###  Let's Connect
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-<br/>
-
-> *"I think resumes are overrated — so I built something to prove it."* 
+Browse my [repositories](https://github.com/Navaneethan-P?tab=repositories) for source code, setup instructions, and project-specific documentation.
