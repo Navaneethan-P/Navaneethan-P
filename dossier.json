@@ -1,0 +1,17 @@
+{
+  "owner": "Navaneethan-P",
+  "featured": [
+    "FirstRun",
+    "Phonepad",
+    "Intelligent-Candidate-Discovery"
+  ],
+  "excluded": [
+    "Navaneethan-P"
+  ],
+  "descriptions": {
+    "FirstRun": "A Python CLI that statically checks software repositories for first-run and onboarding issues — without executing repository code.",
+    "Phonepad": "Turns an Android phone into an Xbox 360-compatible controller for Windows over Wi-Fi, hotspot, or USB tethering using ViGEmBus.",
+    "Intelligent-Candidate-Discovery": "Hybrid semantic retrieval and candidate ranking system built with FAISS vector indexing, SentenceTransformers, and behavioral decay modeling."
+  },
+  "max_description_length": 220
+}

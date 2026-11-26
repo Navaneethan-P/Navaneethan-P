@@ -1,57 +1,72 @@
 <div align="center">
 
-# NAVANEETHAN P.
+# NAVANEETHAN.P
 
-### Software developer building practical tools for real workflows
+`SUBJECT: UNCLASSIFIED` · `SIGNAL STATUS: ACTIVE`
 
-**Developer tooling · Desktop and mobile software · Web applications**
+**Curiosity → Experiments → Engineering → Reality**
 
-[Projects](#selected-work) &nbsp;·&nbsp; [How I build](#how-i-build) &nbsp;·&nbsp; [Tools](#tools)
+![FIELD NOTES / ENGINEERING LOG](assets/signal.gif)
 
 </div>
+
+I don't work within a single technical boundary. Some days it's software. Some days it's security. Sometimes it's an idea that turns into an entirely different system. I explore, break things, understand how they work, and build what comes next. The work speaks. The next move stays unknown.
+
+<!-- DOSSIER:START -->
+## 01 / FEATURED CASE FILES
+
+Curated projects selected for inspection.
+
+### CASE FILE / 01 — [FirstRun](https://github.com/Navaneethan-P/FirstRun)
+
+A Python CLI that statically checks software repositories for first-run and onboarding issues — without executing repository code.
+
+`Python` · `★ 1` · `PUSHED 16 OCT 2026`
 
 ---
 
-I build software that solves a specific problem, explains how it works, and gives people a clear path to use it. My work includes repository diagnostics and desktop-mobile integration.
+### CASE FILE / 02 — [Phonepad](https://github.com/Navaneethan-P/Phonepad)
 
-## Selected work
+Turns an Android phone into an Xbox 360-compatible controller for Windows over Wi-Fi, hotspot, or USB tethering using ViGEmBus.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Navaneethan-P/FirstRun">FirstRun</a></h3>
-      <p><strong>Catch onboarding problems before a new contributor does.</strong></p>
-      <p>A Python command-line checker for repository setup and first-run documentation. It identifies missing setup guidance, broken local documentation links, absent environment templates, configuration gaps, and repository-quality issues without executing repository code.</p>
-      <p><a href="https://github.com/Navaneethan-P/FirstRun#quickstart--installation">Install and run</a> · <a href="https://github.com/Navaneethan-P/FirstRun#initial-verification-checks">Verification checks</a> · <a href="https://github.com/Navaneethan-P/FirstRun#known-limitations">Limitations</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Navaneethan-P/Phonepad">PhonePad</a></h3>
-      <p><strong>Use an Android phone as a Windows game controller.</strong></p>
-      <p>An Android application and Windows companion that connect over a local network and expose an Xbox 360-compatible controller to Windows. The project documents pairing, the ViGEmBus requirement, hotspot and USB-tethering options, and controller verification.</p>
-      <p><a href="https://github.com/Navaneethan-P/Phonepad#setup">Setup guide</a> · <a href="https://github.com/Navaneethan-P/Phonepad#no-wi-fi-router-use-your-phones-hotspot">Network options</a></p>
-    </td>
-  </tr>
-</table>
-
-## How I build
-
-- Define the problem before choosing the implementation.
-- Prefer clear, reproducible setup instructions over undocumented assumptions.
-- Separate verified behavior from project limitations.
-- Test critical workflows and document the remaining constraints.
-
-## Tools
-
-**Languages:** Python, TypeScript, JavaScript
-
-**Areas:** command-line tools, developer tooling, web applications, Android and Windows integration
-
-**Workflow:** Git, automated tests, static checks, repository documentation
+`Not specified` · `★ 0` · `PUSHED 24 NOV 2026`
 
 ---
 
-<div align="center">
+### CASE FILE / 03 — [Intelligent-Candidate-Discovery](https://github.com/Navaneethan-P/Intelligent-Candidate-Discovery)
 
-Browse the [full repository list](https://github.com/Navaneethan-P?tab=repositories) for source code and project documentation.
+Hybrid semantic retrieval and candidate ranking system built with FAISS vector indexing, SentenceTransformers, and behavioral decay modeling.
 
-</div>
+`Python` · `★ 1` · `PUSHED 21 JUN 2026`
+
+## 02 / LATEST SIGNAL
+
+The most recently pushed eligible public repository.
+
+### [Phonepad](https://github.com/Navaneethan-P/Phonepad)
+
+Turns an Android phone into an Xbox 360-compatible controller for Windows over Wi-Fi, hotspot, or USB tethering using ViGEmBus.
+
+`Not specified` · `★ 0` · Last code push: **24 Nov 2026**
+
+<sub>INDEX REFRESHED: 26 Nov 2026 · 06:56 UTC · SOURCE: PUBLIC GITHUB REPOSITORY METADATA</sub>
+<!-- DOSSIER:END -->
+
+## 03 / FIELD NOTES
+
+- Understand the system before changing it.
+- Treat claims as things to verify.
+- Make the result clear enough for someone else to use.
+- Prefer working evidence over impressive descriptions.
+
+## 04 / TECHNICAL TERRAIN
+
+Languages, tools, and engineering areas represented across public repositories.
+
+**Languages:** Python, TypeScript, JavaScript  
+**Workflow:** Git, automated tests, static checks, repository documentation  
+**Areas explored:** Software engineering · AI-assisted systems · Developer tooling · Web and desktop software · Android & Windows integration · Security-oriented exploration
+
+## 05 / REPOSITORY ARCHIVE
+
+[Browse all public repositories](https://github.com/Navaneethan-P?tab=repositories)
