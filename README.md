@@ -1,21 +1,55 @@
-# Navaneethan P
+<div align="center">
 
-Software developer based in Tamil Nadu, India. I build practical software tools and web applications, with a focus on developer experience, repository quality, and useful everyday software.
+# NAVANEETHAN P.
 
-My public projects include a Python command-line tool for checking repository onboarding and an Android-to-Windows gamepad connection tool. I document how each project works, its requirements, and its limitations in the repository README.
+### Software engineer building practical tools for real workflows
 
-## Selected projects
+**Developer tooling · Desktop and mobile software · Web applications**
 
-### [FirstRun](https://github.com/Navaneethan-P/FirstRun)
-A Python CLI that statically checks software repositories for first-run and onboarding gaps. It reports issues such as missing setup guidance, broken local documentation links, absent environment templates, and configuration or repository-quality gaps. FirstRun inspects files without executing the target repository's code.
+[Projects](#selected-work) &nbsp;·&nbsp; [How I build](#how-i-build) &nbsp;·&nbsp; [Tools](#tools)
 
-### [PhonePad](https://github.com/Navaneethan-P/Phonepad)
-An Android app and Windows companion that let an Android phone act as an Xbox 360-compatible controller for Windows. The README covers installation, local-network pairing, the ViGEmBus requirement, and controller verification.
+</div>
 
-## Areas of interest
+---
 
-Software engineering, Python, TypeScript, JavaScript, command-line tools, developer tooling, repository onboarding, and building clear, maintainable applications.
+I like software that earns its place: it solves a specific problem, explains how it works, and gives people a clear path to use it. My projects range from repository diagnostics to connecting an Android phone to a Windows PC as a game controller.
 
-## Explore
+## Selected work
 
-Browse my [repositories](https://github.com/Navaneethan-P?tab=repositories) for source code, setup instructions, and project-specific documentation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Navaneethan-P/FirstRun">FirstRun</a></h3>
+      <p><strong>Catch onboarding problems before a new user does.</strong></p>
+      <p>A Python command-line checker for repository setup and first-run documentation. It flags issues such as missing setup guidance, broken local links, absent environment templates, and invalid configuration—without executing the repository being checked.</p>
+      <p><a href="https://github.com/Navaneethan-P/FirstRun#quickstart--installation">Install and run</a> · <a href="https://github.com/Navaneethan-P/FirstRun#initial-verification-checks">Checks</a> · <a href="https://github.com/Navaneethan-P/FirstRun#known-limitations">Limitations</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Navaneethan-P/Phonepad">PhonePad</a></h3>
+      <p><strong>Turn an Android phone into a Windows game controller.</strong></p>
+      <p>An Android app and Windows companion that connect over a local network and present an Xbox 360-compatible controller to Windows. The project documents pairing, the virtual gamepad driver requirement, and how to verify the connection.</p>
+      <p><a href="https://github.com/Navaneethan-P/Phonepad#setup">Setup guide</a> · <a href="https://github.com/Navaneethan-P/Phonepad#no-wi-fi-router-use-your-phones-hotspot">Network options</a></p>
+    </td>
+  </tr>
+</table>
+
+## How I build
+
+- Start with a defined user problem and make the solution easy to try.
+- Document requirements, setup, and known limitations alongside the code.
+- Prefer checks and clear diagnostics over guesswork.
+- Keep the implementation and its claims grounded in what the project actually does.
+
+## Tools
+
+**Languages:** Python, TypeScript, JavaScript  
+**Work:** command-line tools, web applications, Android and Windows projects  
+**Workflow:** Git, automated tests, repository documentation
+
+---
+
+<div align="center">
+
+More code and project notes in the [repositories](https://github.com/Navaneethan-P?tab=repositories).
+
+</div>
