@@ -2,7 +2,7 @@
 
 # NAVANEETHAN P.
 
-### Software engineer building practical tools for real workflows
+### Software developer building practical tools for real workflows
 
 **Developer tooling · Desktop and mobile software · Web applications**
 
